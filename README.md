@@ -14,7 +14,7 @@ To run locally, do the following:
 * RUn `ionic cordova run ios` or `ionic cordova run android`
 
 
-
+1
 ### 基本运行与调试:
 ---
 
